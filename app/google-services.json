@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "734945666382",
+    "project_id": "talkrr-695ee",
+    "storage_bucket": "talkrr-695ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734945666382:android:3de05ef261000ff2fd6a1f",
+        "android_client_info": {
+          "package_name": "com.tyron.talkrr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734945666382-0ba9nbh6tngih119o6qelb9v039acqt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0juTNgG-MKiAPKEeARLYRFBqXOZdl86Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734945666382-0ba9nbh6tngih119o6qelb9v039acqt0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

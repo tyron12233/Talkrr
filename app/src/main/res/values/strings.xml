@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Talkrr</string>
+    <string name="login_btn">Login</string>
+    <string name="register_btn">New user? Create an account</string>
+    <string name="login_title">Hey, \nLogin Now.</string>
+    <string name="login_password_txtfield_label">Password</string>
+    <string name="login_email_txtfield_label">Email</string>
+</resources>
